@@ -1,0 +1,40 @@
+{
+  "name": "magicdb",
+  "version": "0.1.0",
+  "description": "A dead simple database API for Node.js/LevelDB. Just like using vanilla JS objects, except they get saved!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Lamendola",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "deasync": "0.0.7",
+    "level": "^0.18.0",
+    "level-promisify": "^0.2.0",
+    "level-sublevel": "^6.3.15",
+    "node-proxy": "^0.8.0",
+    "typology": "^0.1.1",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlamendo/MagicDB.git"
+  },
+  "keywords": [
+    "level",
+    "levelup",
+    "database",
+    "orm",
+    "persistent",
+    "object",
+    "object",
+    "storage"
+  ],
+  "bugs": {
+    "url": "https://github.com/jlamendo/MagicDB/issues"
+  },
+  "homepage": "https://github.com/jlamendo/MagicDB"
+}
