@@ -1,6 +1,5 @@
 It's dead simple to use - I'll stick with code examples.
 
-npm i magicdb
 
 ```
 var MagicDB = require('./index.js');
